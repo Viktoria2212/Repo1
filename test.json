@@ -1,5 +1,5 @@
 {
-"planets":[
+"planets": [
 "Mercury",
 "Venus",
 "Earth",
@@ -9,5 +9,10 @@
 "Uranus",
 "Neptune",
 "Pluto"
+],
+{"rovers": [
+"USA": "Opportunity",
+"USSR": "Mars3"
 ]
+}
 }
